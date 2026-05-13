@@ -25,7 +25,7 @@ Empty lines between everything in <angle breackets> is intentional due to markdo
 [![Discord][discord-shield]][discord-url]
   
   ### I followed a video tutorial, now I'm having issues.
-  * Video guides are very frequently out of date or use potentially dangerous scripts. For the most up to date information and guides, be sure to read over this github page thouroughly *before* asking for help. 
+  * Video guides are very frequently out of date or use potentially dangerous scripts. For the most up to date information and guides, be sure to read over this github page thoroughly *before* asking for help. 
   
   ### My computer will not boot a Brunch USB, and I've followed all of the instructions correctly!
   * Some devices (notably Surface Go) will not boot a valid USB flash drive / SD card with secure boot on even if the shim binary is signed. For those devices, you will need to disable secure boot in your bios settings and use the legacy EFI bootloader by adding the `-l` parameter when running the chromeos-install.sh script.

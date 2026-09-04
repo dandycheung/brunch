@@ -41,7 +41,7 @@ Hardware support is highly dependent on the general Linux kernel hardware compat
 
 
 ✔ CPU Compatibility:
-- [Intel CPUs][intel-cpus] from 8th Gen / [Celeron CPUs][celeron-cpus] from Goldmont
+- [Intel CPUs][intel-cpus] from 10th Gen
 - [AMD Ryzen][amd-ry-list]
 
 
@@ -61,7 +61,6 @@ Linuxloops is a tool that allows the installation of Brunch with a GUI.
 
 First, identify the recovery image suitable for your CPU:  
 #### Intel
-* 8th gen & 9th gen: "[shyvana][recovery-shyvana]" for Intel / "[bobba][recovery-bobba]" for Celeron.
 * 10th gen: "[jinlon][recovery-jinlon]".
 * 11th gen & above: "[voxel][recovery-voxel]".
 #### AMD
@@ -114,7 +113,6 @@ Additional troubleshooting and support tips can be found at the following page:
 [atom-list]: https://en.wikipedia.org/wiki/List_of_Intel_Atom_microprocessors
 [amd-sr-list]: https://en.wikipedia.org/wiki/List_of_AMD_accelerated_processing_units#%22Stoney_Ridge%22_(2016)
 [amd-ry-list]: https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors
-[recovery-shyvana]: https://cros.tech/device/shyvana
 [recovery-jinlon]: https://cros.tech/device/jinlon
 [recovery-voxel]: https://cros.tech/device/voxel
 [recovery-gumboz]: https://cros.tech/device/gumboz

@@ -33,7 +33,6 @@ This guide is for installing Brunch to a USB (or other disk) using Windows. This
 1. Download a recovery suitable for your CPU. The list below can help you select one. You do *not* need to select a recovery that matches the latest Brunch release number, the most recent avaliable is typically fine.
   
 #### Intel
-* 8th gen & 9th gen: "[shyvana][recovery-shyvana]" for Intel / "[bobba][recovery-bobba]" for Celeron.
 * 10th gen: "[jinlon][recovery-jinlon]".
 * 11th gen & above: "[voxel][recovery-voxel]".
 #### AMD
@@ -195,7 +194,6 @@ This guide is for installing Brunch to a partition using Windows WSL2.
 1. Download a recovery suitable for your CPU. The list below can help you select one. You do *not* need to select a recovery that matches the latest Brunch release number, the most recent avaliable is typically fine.
   
 #### Intel
-* 8th gen & 9th gen: "[shyvana][recovery-shyvana]" for Intel / "[bobba][recovery-bobba]" for Celeron.
 * 10th gen: "[jinlon][recovery-jinlon]".
 * 11th gen & above: "[voxel][recovery-voxel]".
 #### AMD
@@ -338,8 +336,6 @@ In case you run into issues while installing or using Brunch, you can find suppo
 [atom-list]: https://en.wikipedia.org/wiki/List_of_Intel_Atom_microprocessors
 [amd-sr-list]: https://en.wikipedia.org/wiki/List_of_AMD_accelerated_processing_units#%22Stoney_Ridge%22_(2016)
 [amd-ry-list]: https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors
-[recovery-bobba]: https://cros.tech/device/bobba
-[recovery-shyvana]: https://cros.tech/device/shyvana
 [recovery-jinlon]: https://cros.tech/device/jinlon
 [recovery-voxel]: https://cros.tech/device/voxel
 [recovery-gumboz]: https://cros.tech/device/gumboz

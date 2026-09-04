@@ -388,8 +388,6 @@ It is currently recommended to only update ChromeOS when the matching version of
 [atom-list]: https://en.wikipedia.org/wiki/List_of_Intel_Atom_microprocessors
 [amd-sr-list]: https://en.wikipedia.org/wiki/List_of_AMD_accelerated_processing_units#%22Stoney_Ridge%22_(2016)
 [amd-ry-list]: https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors
-[recovery-bobba]: https://cros.tech/device/bobba
-[recovery-shyvana]: https://cros.tech/device/shyvana
 [recovery-jinlon]: https://cros.tech/device/jinlon
 [recovery-voxel]: https://cros.tech/device/voxel
 [recovery-gumboz]: https://cros.tech/device/gumboz
